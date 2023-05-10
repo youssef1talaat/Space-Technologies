@@ -4,16 +4,16 @@ Report about Space Technology
 ## Table of content
 I. Introduction to space technology.
    A. What is the space technology?
-B. The kinds of space technology.
-C. The importance of this technology 
-D. History of space technology
-1. The impact of the cold war between United states and Soviet Union on 
-the development of the space tech.
-2. First project with space technology on earth
-3. First people and country benefits from it
-E. Rockets and space shuttles.
-1. Rockets and space shuttles help transport people to space 
-2. Satellites, Telescope, and space stations helps people to discover more 
+   B. The kinds of space technology.
+   C. The importance of this technology 
+   D. History of space technology
+      1. The impact of the cold war between United states and Soviet Union on 
+         the development of the space tech.
+      2. First project with space technology on earth
+      3. First people and country benefits from it
+   E. Rockets and space shuttles.
+      1. Rockets and space shuttles help transport people to space 
+      2. Satellites, Telescope, and space stations helps people to discover more 
 about space.
 II. Space technology and how does it benefit the earth.
 A.Communication satellites provide access to phone and internet services.
